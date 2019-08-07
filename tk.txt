@@ -1,1 +1,7 @@
-Trying again.                           
+Interesting links dealing with Tk and python.
+
+tka11y: python module to add ATK support to tkinter
+https://pypi.org/project/Tka11y/
+
+papi: python extension adding ATK or MSAA support
+http://ocemp.sourceforge.net/papidown.html
